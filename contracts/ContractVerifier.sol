@@ -17,9 +17,6 @@ contract ContractVerifier {
             return (false, "Contract is not registered");
         }
 
-        // Here you could add more sophisticated verification logic
-        // For example, comparing the on-chain bytecode with the registered ABI
-
         return (true, "Contract is verified and registered");
     }
 
