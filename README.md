@@ -90,7 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Ander Álvarez - [@nderalvarez](https://twitter.com/nderalvarez) - email@example.com
+Ander Álvarez - [@nderalvarez](https://twitter.com/nderalvarez) - anderalvarez15@gmail.com.com
 
 Project Link: [https://github.com/anderalvarez/SmartContract-Vault](https://github.com/anderalvarez/eSmartContract-Vault)
 
