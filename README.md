@@ -2,6 +2,8 @@
 
 A decentralized application (DApp) that allows users to register, verify, and validate the authenticity of smart contracts on the Ethereum blockchain. This system provides a transparent and immutable record of contract changes and audits.
 
+![Smart Contract Registry Interface](smart-contract-registry-interface.png)
+
 ## Features
 
 - Smart contract registration on Ethereum blockchain
